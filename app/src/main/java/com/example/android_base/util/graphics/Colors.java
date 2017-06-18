@@ -18,7 +18,7 @@ package com.example.android_base.util.graphics;
 
 /**
  * 提供一些常用的颜色
- * @author xiaopan
+ * @author
  *
  */
 public class Colors {

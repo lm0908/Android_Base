@@ -25,7 +25,7 @@ import com.example.android_base.util.java.lang.StringUtils;
 
 /**
  * 广播工具箱
- * @author xiaopan
+ * @author
  *
  */
 public class BroadcastUtils {

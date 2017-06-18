@@ -26,7 +26,7 @@ import java.io.File;
 
 /**
  * Intent工具箱
- * @author xiaopan
+ * @author
  *
  */
 public class IntentUtils {
